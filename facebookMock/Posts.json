@@ -1,0 +1,53 @@
+{
+    "posts":
+    [
+     {
+        "name": "Alex Cortney",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "profileImageName": "alexCortney",
+        "statusText": "When you find peace within yourself, you become the kind of person who can live at peace with others.",
+        "statusImageName": "https://images.unsplash.com/photo-1472461936147-645e2f311a2b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=900&fit=crop&s=7dd6961d773918b1ea8446bafae89386",
+        "numLikes": 150,
+        "numComments": 300
+     },
+     {
+        "name": "Jessica Smith",
+        "location": {
+            "city": "Cupertino",
+            "state": "CA"
+        },
+        "profileImageName": "jessicaSmith",
+        "statusText": "Your life is a sacred journey. It is about change, growth, discovery, movement, transformation, continuously expanding your vision of what is possible, stretching your soul, learning to see clearly and deeply, listening to your intuition, taking courageous challenges at every step along the way. You are on the path... exactly where you are meant to be right now... And from here, you can only go forward, shaping your life story into a magnificent tale of triumph, of healing, of courage, of beauty, of wisdom, of power, of dignity, and of love.",
+        "statusImageName": "https://images.unsplash.com/photo-1484627147104-f5197bcd6651?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=900&fit=crop&s=f461c672b8c2abcd140042e8954403f2",
+        "numLikes": 111,
+        "numComments": 222
+     },
+     {
+        "name": "Miles Bonn",
+        "location": {
+            "city": "Hamburg",
+            "state": "DE"
+        },
+        "profileImageName": "milesBonn",
+        "statusText": "Live as if you were to die tomorrow; learn as if you were to live forever.\nThe weak can never forgive. Forgiveness is the attribute of the strong.\nHappiness is when what you think, what you say, and what you do are in harmony.",
+        "statusImageName": "https://images.unsplash.com/photo-1461187655092-c5597dbaf59f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=900&fit=crop&s=fdb1d93644d8ca712979e1f9d249ba40",
+        "numLikes": 333,
+        "numComments": 444
+     },
+     {
+        "name": "Rose Caly",
+        "location": {
+            "city": "Berlin",
+            "state": "DE"
+        },
+        "profileImageName": "jessicaSmith",
+        "statusText": "When you find peace within yourself, you become the kind of person who can live at peace with others.",
+        "statusImageName": "https://images.unsplash.com/photo-1433588641602-7c1083c4f0e2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1600&h=900&fit=crop&s=f962acef625b7ba9ede6deb32c158c7d",
+        "numLikes": 150,
+        "numComments": 500
+     }
+    ]
+}
